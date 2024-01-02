@@ -3,3 +3,8 @@
 ################################################################################
 
 /SisGUAPA/.vs
+/SisGUAPA/SisGUAPA/obj
+/SisGUAPA/SisGUAPA.Application/obj
+/SisGUAPA/SisGUAPA.Domain/obj
+/SisGUAPA/SisGUAPA.Infra/obj
+/SisGUAPA/SisGUAPA.Infra.Data/obj
